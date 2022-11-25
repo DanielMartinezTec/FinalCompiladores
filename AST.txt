@@ -1,0 +1,1 @@
+('declare_assign', 'int', 'i', ('operation', ('operation', 1, '*', 2), '+', 3))

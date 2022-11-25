@@ -1,0 +1,11 @@
+int a;
+float b = 10;
+a = 1;
+a = a + 3;
+print 10;
+print a;
+string c = "pato pez";
+print c;
+print "pato pez";
+boolean d = false;
+boolean e = true;
